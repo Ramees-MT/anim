@@ -1,16 +1,21 @@
-# anim
+# Anim
 
-A new Flutter project.
+Anim is a Flutter project focused on creating smooth animations for draggable icons, similar to the Mac OS dock animation.
+
+## Features
+- Smooth and interactive animations for draggable icons.
+- Mac OS-style dock behavior.
+- Well-documented and formatted code following Effective Dart guidelines.
 
 ## Getting Started
+Follow these instructions to set up and run the project:
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+- Ensure you have [Flutter SDK](https://docs.flutter.dev/get-started/install) installed.
+- Use a code editor like [Visual Studio Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio).
 
-A few resources to get you started if this is your first Flutter project:
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/anim.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
